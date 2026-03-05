@@ -1,0 +1,76 @@
+// Q1)you are given a number n  and you have to print if it is positive, negative and zero
+
+
+// let n = 0
+// if(n > 0 ){
+//     console.log("positive")
+// }else if(n < 0)
+//     console.log("negative")
+// else{
+//     console.log("zero")
+// }
+
+// let result = (n>0) ? "positive" : (n < 0) ? "negative" : "zero" (ternery operator)
+
+// ******************************************************************************************************************
+
+// Q2)you are given a num that can be decimals -> check the int part is odd or even
+
+// let n = 45.44
+// let Intpart = Math.round(n)
+// if( Intpart % 2 === 0){
+//     console.log("even")
+// }else{
+//     console.log("odd")
+// }
+
+// ******************************************************************************************************************
+
+// 3) you are given 3 numbers a,b,c now you have to print which one is the greatest
+
+// let a = 2
+// let b = 1
+// let c = 5
+// if (a>b){
+//     if (a>c){
+//         console.log("a is greater ")  
+//     } 
+// }
+// if (b > a){
+//     if(b > c){
+//         console.log("b is greater")
+
+//     }     
+// }
+// if ( c > a){
+//     if(c>b){
+//     console.log("c is greater")
+
+//     }
+    
+// }
+
+// ******************************************************************************************************************
+
+// Q4) 
+// let a = 20
+// let b = 1
+// let c = 5
+
+// if ( a>b && a>c){
+//     console.log("a is greater")
+// }
+// else if (b > c && b > a){
+//     console.log("b is greater")
+// }else {
+//     console.log("c is greater")
+// }
+
+
+
+
+
+
+
+
+
